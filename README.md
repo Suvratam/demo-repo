@@ -9,4 +9,4 @@ watch it
 
 ## Local Developmnet
 
-1. Open index.html in your browser
+1. New file to listed
